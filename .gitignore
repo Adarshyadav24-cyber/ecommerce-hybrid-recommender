@@ -1,0 +1,32 @@
+# Environment / secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Local backups
+app_backup.py
+app_backup_before_marketplace.py
+
+# ZIP files
+*.zip
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+.env
+.env.*
+__pycache__/
+*.py[cod]
+*.zip
+app_backup.py
+app_backup_before_marketplace.py
